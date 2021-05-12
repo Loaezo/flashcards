@@ -1,0 +1,10 @@
+[{"question": "Hello (Formal)",
+  "answer": "Buen día"},
+  {"question": "Goodbye (Formal)",
+    "answer": "Hasta luego"},
+  {"question": "Hello (informal)",
+    "answer": "Hola"},
+  {"question": "Goodbye (informal)",
+    "answer": "Adiós"},
+  {"question": "Cat", "answer": "Tuchito"},
+  {"question": "Dog", "answer": "Cochi"}]
