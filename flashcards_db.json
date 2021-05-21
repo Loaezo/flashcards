@@ -1,10 +1,1 @@
-[{"question": "Hello (Formal)",
-  "answer": "Buen día"},
-  {"question": "Goodbye (Formal)",
-    "answer": "Hasta luego"},
-  {"question": "Hello (informal)",
-    "answer": "Hola"},
-  {"question": "Goodbye (informal)",
-    "answer": "Adiós"},
-  {"question": "Cat", "answer": "Tuchito"},
-  {"question": "Dog", "answer": "Cochi"}]
+[{"question": "Hello (Formal)", "answer": "Buen d\u00c3\u00ada"}, {"question": "Goodbye (Formal)", "answer": "Hasta luego"}, {"question": "Hello (informal)", "answer": "Hola"}, {"question": "Goodbye (informal)", "answer": "Adi\u00c3\u00b3s"}, {"question": "Cat", "answer": "Tuchito"}, {"question": "Dog", "answer": "Cochi"}, {"question": "Rat\u00f3n", "answer": "Mouse"}]
